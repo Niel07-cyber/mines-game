@@ -10,3 +10,4 @@ A simple Minesweeper-inspired game built with Python and Tkinter. Avoid the mine
 
 ### Screenshot
 ![Game Screenshot](https://github.com/Niel07-cyber/mines-game/blob/main/Screenshot%202025-01-02%20010948.png)
+![Game Screenshot](https://github.com/Niel07-cyber/mines-game/blob/main/Screenshot%202025-01-02%20011425.png)
